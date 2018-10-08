@@ -7,9 +7,5 @@
  */
 class Cat extends Pet
 {
-public function __construct($name, $age)
-{
-    parent::__construct($name, $age);
-    $this->type="cat";
-}
+
 }
